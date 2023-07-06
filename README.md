@@ -19,7 +19,7 @@
 
 ## 💻  Projeto
 
-Este projeto é uma Landing Page de vendas de café desenvolvido com Bootstrap e contém um menu de navegação e um carrosel de imagens.
+Este projeto é uma Landing Page simples de vendas de café desenvolvido com Bootstrap. Contém um menu de navegação e um carrosel de imagens.
 
 [Visite o projeto online](https://antonio2812.github.io/landing-page)
 
